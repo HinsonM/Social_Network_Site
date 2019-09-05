@@ -1,0 +1,42 @@
+[33mcommit 7f151e9e0a1dd174f0f042b2b22d8c90519b44e6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 8511b8e 8aab4e5
+Author: Hin <ponhinson@gmail.com>
+Date:   Wed Jul 17 23:34:49 2019 +0800
+
+    nothing, can be ommitted Merge branch 'master' of github.com:HinsonM/QA_2
+
+[33mcommit 8511b8e924410a83e338a3545988ac05fda72659[m
+Author: Hin <ponhinson@gmail.com>
+Date:   Wed Jul 17 23:34:39 2019 +0800
+
+    nothing
+
+[33mcommit 8aab4e5977e4f2351849bd9eef4c3fe30ccde643[m
+Author: hinson <ponhinson@gmail.com>
+Date:   Wed Jul 17 22:07:18 2019 +0800
+
+    a little
+
+[33mcommit 10808a91d459a4121ab1dedee2debeb5979e6834[m
+Author: Hin <ponhinson@gmail.com>
+Date:   Tue Jul 16 23:52:56 2019 +0800
+
+    freemarker learning
+
+[33mcommit 4cf245dae50b110a11ad7d6ac74a5f946a853cf9[m
+Author: hinson <ponhinson@gmail.com>
+Date:   Mon Jul 15 12:43:28 2019 +0800
+
+    change the template engine to freemarker.
+
+[33mcommit 56e15b2d4cc0388c5cedecd846fcddf6717fd196[m
+Author: hinson <ponhinson@gmail.com>
+Date:   Sun Jul 14 15:47:16 2019 +0800
+
+    使用velocity模板引擎失败，编写好代码，URL解析404
+
+[33mcommit 6f9d55e814b2dfc08098faf99f01c09357fe77dc[m
+Author: hinson <ponhinson@gmail.com>
+Date:   Sun Jul 14 15:17:48 2019 +0800
+
+    基本URL解析
